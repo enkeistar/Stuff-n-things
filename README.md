@@ -1,4 +1,3 @@
 Stuff-n-things
 ==============
-
-This is a test. Never used get before, so lets hope this works!
+This is a test. Never used git before, so lets hope this works!
